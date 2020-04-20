@@ -1,0 +1,1 @@
+this is inside the example directory for testing reading directory synchronously and asynchronously.

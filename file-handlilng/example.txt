@@ -1,0 +1,1 @@
+this file has contents to read by read file synchronously and asynchronously.
